@@ -4,3 +4,34 @@
 .color-bg{
     background-color: aqua;
 }
+.buy-now-button{
+    border-radius: 5px;
+    padding: 9px 25px;
+    background-color:black;
+    border: none;
+    color: white;
+}
+.item{
+    padding: 20px 40px;
+    
+}
+.carousel .carousel-indicators .active {
+    background-color: #FFC91C;
+    height: 5px;
+    border-radius: 3px;
+  }
+  .card{
+      border: none;
+    box-shadow: 2px 2px 2px 2px #aaaaaa;
+  }
+  hr {
+    border-radius: 20px ;
+    border-top: 10px solid orange;
+  }
+  .box{
+    box-shadow: 2px 2px 2px 2px #aaaaaa;
+  }
+
+.categories img{
+  width: 80%;
+}
